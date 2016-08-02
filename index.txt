@@ -1,0 +1,34 @@
+//.Apartment to Sublet at St. Clair West &  Bathurst
+$VER=2.7
+$include foundation6.txt
+$style={
+  h2 {color: #888;}
+  h3, h4 {color: #666;}
+  body .panel h2 {color: #777;}
+  body .panel h3, body .panel h4 {color: #555;}
+  body div.row { max-width: 48rem; }
+}
+
+$ROW $COL
+.$TITLE
+This bachelor apartment is available August 29th to September 29th. 
+- Convenient location: 3-7 minutes walk to TTC. Located on Spadina subway line, St. Clair West streetcar, & Bathurst bus.
+- All utilities + wifi included.
+- Air-conditioning available (additional fee)
+- Fully furnished
+- Laundry in the building.
+- Breezy balcony with a nice view and patio seating.
+- Hardwood floors 
+- High ceilings (8'3'')
+- Amenities nearby: Loblaws, Shoppers Drug Mart, post office, library, banks.
+- Lots of great cafes, restaurants close by. Lots of greenery ... and I'll move out the harp.  :-)
+- $999
+
+Contact Roselyn at 416-435- 0843.
+
+$link=https://www.facebook.com/roselyn.isis/posts/851641088274
+
+-[[$link Click here to see photos]]
+[[$link [[2016-sublet-stclair.jpg Apartment to Sublet at St. Clair West &  Bathurst]]]]
+$END $END
+
